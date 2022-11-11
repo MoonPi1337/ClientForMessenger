@@ -36,7 +36,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>IP адрес:</string>
+     <string>IP addr:</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit">
@@ -59,7 +59,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Подключиться</string>
+     <string>Connect</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_2">
@@ -82,7 +82,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Отправить</string>
+     <string>Send</string>
     </property>
    </widget>
    <widget class="QTextBrowser" name="textBrowser">
